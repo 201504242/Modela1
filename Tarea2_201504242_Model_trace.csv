@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.0874305478633036;DefaultEntity.28;Entrega;0.OnEnteredProcessing;[Delay] ProcessingTime;Unable to get value of property 'Delay.DelayTime'.
+0.0874305478633036;DefaultEntity.28;Entrega;0.OnEnteredProcessing;[Delay] ProcessingTime;Data type mismatch. Unable to convert value 'Caja1' from type 'Element Reference' to type 'Number'.
+
